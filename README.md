@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @echoChalo
+- 👋 Hi, I’m echoChalo
 - 👀 I’m interested in ...
+- 📕 I'm now studying in South China Normal University
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on ...
 
