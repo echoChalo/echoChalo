@@ -1,4 +1,4 @@
-![👋 Hi, I’m echoChalo](https://capsule-render.vercel.app/api?type=wave&color=auto&section=header&text=👋%20Hi,%20I’m%20echoChalo&fontSize=90)
+![👋 Hi, I’m echoChalo](https://capsule-render.vercel.app/api?type=wave&color=auto&section=header&text=👋%20Hi&fontSize=90&desc={I’m%20echoChalo})
 - 👋 Hi, I’m echoChalo
 - 👀 I’m interested in ...
 - 📕 I'm now studying in South China Normal University
