@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=👋%20Hi&fontSize=90&fontAlign=50&fontAlignY=30&desc={I’m%20echoChalo}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling)
+![](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=👋%20Hi&fontSize=90&fontAlign=50&fontAlignY=30&desc=I’m%20echoChalo&descAlign=50&descSize=30&descAlignY=60&animation=twinkling)
 - 👋 Hi, I’m echoChalo
 - 👀 I’m interested in ...
 - 📕 I'm now studying in South China Normal University
