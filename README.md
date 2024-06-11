@@ -14,7 +14,7 @@
 <br/>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=echoChalo&theme=github-compact&hide_border=true&area=true" />
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo" />
+
 <br/>
 </p>
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400" />
