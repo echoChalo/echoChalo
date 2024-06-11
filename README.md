@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=28F7E8&background=498FF600&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Github+profile+page!" />
 </p>
 <!-- data-->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=echoChalo&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=echoChalo)](https://git.io/streak-stats)
 - 👋 Hi, I’m echoChalo
 - 👀 I’m interested in ...
 - 📕 I'm now studying in South China Normal University
