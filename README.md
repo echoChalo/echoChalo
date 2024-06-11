@@ -4,7 +4,7 @@
 </p>
 <!--subheader -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=28F7E8&background=498FF600&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Github+profile+page!)](https://git.io/typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=28F7E8&background=498FF600&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Github+profile+page!" />
 </p>
 - 👋 Hi, I’m echoChalo
 - 👀 I’m interested in ...
