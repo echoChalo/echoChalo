@@ -14,8 +14,7 @@
 <br/>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=echoChalo&theme=github-compact&hide_border=true&area=true" />
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=20" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo" />
 <br/>
 </p>
 - 👋 Hi, I’m echoChalo<br/>
