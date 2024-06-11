@@ -17,6 +17,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo" />
 <br/>
 </p>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400" />
 - 👋 Hi, I’m echoChalo<br/>
 - 👀 I’m interested in ...<br/>
 - 📕 I'm now studying in South China Normal University<br/>
