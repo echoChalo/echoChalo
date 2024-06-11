@@ -13,11 +13,11 @@
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=echoChalo&theme=tokyonight-duo&hide_border=true" />
 <br/>
 </p>
-- 👋 Hi, I’m echoChalo\\
-- 👀 I’m interested in ...\\
-- 📕 I'm now studying in South China Normal University\\
-- 🌱 I’m currently learning Artificial Intelligence\\
-- 💞️ I’m looking to collaborate on ...\\
+- 👋 Hi, I’m echoChalo<br/>
+- 👀 I’m interested in ...<br/>
+- 📕 I'm now studying in South China Normal University<br/>
+- 🌱 I’m currently learning Artificial Intelligence<br/>
+- 💞️ I’m looking to collaborate on ...<br/>
 
 <!---
 echoChalo/echoChalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
