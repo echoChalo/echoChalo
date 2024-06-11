@@ -9,7 +9,7 @@
 <!-- data-->
 
 <p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=echoChalo" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=echoChalo&theme=tokyonight-duo" />
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=echoChalo&theme=tokyonight-duo&hide_border=true" />
 <br/>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=echoChalo&theme=github-compact&hide_border=true&area=true" />
