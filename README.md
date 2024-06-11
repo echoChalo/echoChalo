@@ -13,7 +13,6 @@
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=echoChalo&theme=tokyonight-duo&hide_border=true" />
 <br/>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=echoChalo&theme=github-compact&hide_border=true&area=true" />
-<img src="/github-metrics.svg" alt="Metrics" width="100%" />
 <br/>
 <br/>
 </p>
