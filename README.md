@@ -9,10 +9,10 @@
 <!-- data-->
 
 <p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=echoChalo&theme=github-compact" />
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=echoChalo&theme=tokyonight-duo&hide_border=true" />
+<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=echoChalo&theme=github-compact" />
+<img align="center" width="500" src="https://streak-stats.demolab.com?user=echoChalo&theme=tokyonight-duo&hide_border=true" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo&layout=compact&hide_border=true&area=true" />
+<img width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo&layout=compact&hide_border=true&area=true" />
 <br/>
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
