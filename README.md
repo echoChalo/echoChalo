@@ -15,31 +15,73 @@
 <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo&layout=compact&hide_border=true&area=true" />
 <br/>
 <!--START_SECTION:waka-->
- 
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 47.7 kB Used in GitHub's Storage 
+> 📦 77.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 115 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+🌆 Daytime                22 commits          █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+🌃 Evening                91 commits          ████████████████████░░░░░   79.13 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   33 commits          ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+Tuesday                  56 commits          ████████████░░░░░░░░░░░░░   48.70 % 
+Wednesday                24 commits          █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Thursday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Jupyter Notebook         1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-C++                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   3 repos             ███████████████░░░░░░░░░░   60.00 % 
+Vue                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+C++                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
 
 
 
- Last Updated on 11/06/2024 18:37:06 UTC
+ Last Updated on 12/06/2024 18:36:43 UTC
 <!--END_SECTION:waka-->
 <br/>
 </p>
