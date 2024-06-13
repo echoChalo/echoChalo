@@ -14,7 +14,7 @@
 <br/>
 <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo&layout=compact&hide_border=true&area=true" />
 <br/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={YOUR_USERNAME}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=echoChalo&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
