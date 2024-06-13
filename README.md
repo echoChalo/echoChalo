@@ -87,15 +87,3 @@ C++                      1 repo              █████░░░░░░�
 
  Last Updated on 12/06/2024 18:36:43 UTC
 <!--END_SECTION:waka-->
-<br/>
-</p>
-- 👋 Hi, I’m echoChalo<br/>
-- 👀 I’m interested in ...<br/>
-- 📕 I'm now studying in South China Normal University<br/>
-- 🌱 I’m currently learning Artificial Intelligence<br/>
-- 💞️ I’m looking to collaborate on ...<br/>
-
-<!---
-echoChalo/echoChalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
