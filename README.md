@@ -14,7 +14,7 @@
 <br/>
 <img  width="800" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=echoChalo&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> 
  <br/>
-<img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo&&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=5" />
+<img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo&&theme=transparent&hide_border=true&layout=compact&langs_count=6" />
 
  
 <!--START_SECTION:waka-->
