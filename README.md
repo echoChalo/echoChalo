@@ -12,9 +12,9 @@
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=echoChalo&theme=github-compact" />
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=echoChalo&theme=tokyonight-duo&hide_border=true" />
 <br/>
-<img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo&&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<br/>
-<img  width="800" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=echoChalo&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> 
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo&&theme=transparent&hide_border=true&layout=compact&langs_count=6" />
+
+<img  width="400" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=echoChalo&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> 
  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2058%20mins-blue)
