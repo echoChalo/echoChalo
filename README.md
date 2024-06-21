@@ -13,7 +13,7 @@
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=echoChalo&theme=tokyonight-duo&hide_border=true" />
 <br/>
 <img  width="500" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=echoChalo&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo&&theme=transparent&hide_border=true&layout=donut&langs_count=5" />
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo&&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=5" />
  <br/>
  
 <!--START_SECTION:waka-->
