@@ -12,8 +12,6 @@
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=echoChalo&theme=github-compact" />
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=echoChalo&theme=tokyonight-duo&hide_border=true" />
 <br/>
-<img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo&&theme=transparent&hide_border=true&layout=compact&langs_count=4" />
-<br/>
 <img  width="800" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=echoChalo&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> 
  
 <!--START_SECTION:waka-->
@@ -95,3 +93,6 @@ C++                      1 repo              █████░░░░░░�
 
  Last Updated on 20/06/2024 18:35:29 UTC
 <!--END_SECTION:waka-->
+
+<br/>
+<img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo&&theme=transparent&hide_border=true&layout=compact&langs_count=4" />
