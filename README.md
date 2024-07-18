@@ -15,13 +15,15 @@
 <img  width="800" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=echoChalo&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> 
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 77.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 147 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,19 +58,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      2 hrs 2 mins        ██████████████████████░░░   86.56 % 
-Python                   19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+C++                      1 hr 25 mins        ████████████████████░░░░░   81.87 % 
+Python                   19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs 2 mins        ██████████████████████░░░   86.56 % 
-PyCharm                  19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Visual Studio            1 hr 25 mins        ████████████████████░░░░░   81.87 % 
+PyCharm                  19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
 
 🐱‍💻 Projects: 
-csoj                     2 hrs 2 mins        ██████████████████████░░░   86.56 % 
-Pytorch项目                19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+csoj                     1 hr 25 mins        ████████████████████░░░░░   81.87 % 
+Pytorch项目                19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
 
 💻 Operating System: 
-Windows                  2 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +84,7 @@ C++                      1 repo              █████░░░░░░�
 
 
 
- Last Updated on 17/07/2024 18:38:24 UTC
+ Last Updated on 18/07/2024 18:38:00 UTC
 <!--END_SECTION:waka-->
 
 <br/>
