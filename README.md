@@ -15,15 +15,13 @@
 <img  width="800" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=echoChalo&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> 
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 77.3 kB Used in GitHub's Storage 
- > 
-> 🏆 147 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,16 +56,21 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      2 hrs 34 mins       █████████████████████████   100.00 % 
+C++                      2 hrs 43 mins       ██████████████████████░░░   89.29 % 
+Python                   19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs 34 mins       █████████████████████████   100.00 % 
+Visual Studio            2 hrs 43 mins       ██████████████████████░░░   89.29 % 
+PyCharm                  19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
 
 🐱‍💻 Projects: 
-csoj                     2 hrs 34 mins       █████████████████████████   100.00 % 
+csoj                     2 hrs 43 mins       ██████████████████████░░░   89.29 % 
+小爬不算爬                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Pytorch项目                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +84,7 @@ C++                      1 repo              █████░░░░░░�
 
 
 
- Last Updated on 22/07/2024 18:37:22 UTC
+ Last Updated on 23/07/2024 18:35:53 UTC
 <!--END_SECTION:waka-->
 
 <br/>
