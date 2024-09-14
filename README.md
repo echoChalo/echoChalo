@@ -15,7 +15,7 @@
 <img  width="800" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=echoChalo&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> 
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -23,7 +23,7 @@
 
 > 📦 77.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 186 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,19 +58,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 hrs 39 mins      █████████████████░░░░░░░░   69.93 % 
-JSON                     4 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-HTML                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Python                   11 hrs 59 mins      █████████████████░░░░░░░░   67.50 % 
+JSON                     4 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+HTML                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
 
 🔥 Editors: 
-PyCharm                  19 hrs 32 mins      █████████████████████████   100.00 % 
+PyCharm                  17 hrs 46 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-小爬不算爬                    19 hrs 28 mins      █████████████████████████   99.66 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+小爬不算爬                    17 hrs 41 mins      █████████████████████████   99.49 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Operating System: 
-Windows                  19 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +85,7 @@ C++                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 13/09/2024 18:39:45 UTC
+ Last Updated on 14/09/2024 18:38:23 UTC
 <!--END_SECTION:waka-->
 
 <br/>
