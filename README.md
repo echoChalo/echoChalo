@@ -86,8 +86,10 @@ C++                      1 repo              ████░░░░░░░�
  Last Updated on 05/02/2025 18:40:49 UTC
 <!--END_SECTION:waka-->
 
+<p align="center">
 <br/>
 <img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo&&theme=transparent&hide_border=true&layout=compact&langs_count=8" />
 <br/>
 <img width="800" src="https://github-immortality.vercel.app/api?username=echoChalo" />
+</p>
 
