@@ -15,11 +15,15 @@
 <img  width="800" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=echoChalo&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> 
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%207%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 77.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 10 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,6 +31,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+🌆 Daytime                100 commits         ████████░░░░░░░░░░░░░░░░░   33.22 % 
+🌃 Evening                179 commits         ███████████████░░░░░░░░░░   59.47 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   59 commits          █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Tuesday                  85 commits          ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+Wednesday                34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Thursday                 75 commits          ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+Friday                   45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Saturday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -40,7 +83,7 @@ C++                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 15/02/2025 18:37:51 UTC
+ Last Updated on 16/02/2025 18:38:36 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
