@@ -15,15 +15,13 @@
 <img  width="800" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=echoChalo&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> 
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 77.3 kB Used in GitHub's Storage 
- > 
-> 🏆 10 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,16 +56,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   8 hrs 5 mins        ████████████████████████░   96.45 % 
+C++                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           8 hrs 5 mins        ████████████████████████░   96.45 % 
+Visual Studio            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BenyuanSpring            8 hrs 5 mins        ████████████████████████░   96.45 % 
+Project4                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  8 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +84,7 @@ C++                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 07/03/2025 18:41:56 UTC
+ Last Updated on 08/03/2025 18:33:07 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
