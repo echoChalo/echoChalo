@@ -17,13 +17,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 77.3 kB Used in GitHub's Storage 
- > 
-> 🏆 11 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,17 +56,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 16 mins       ████████████████████████░   96.81 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Python                   2 hrs 54 mins       ███████████████████████░░   93.37 % 
+YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 
 🔥 Editors: 
-PyCharm                  6 hrs 28 mins       █████████████████████████   100.00 % 
+PyCharm                  3 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Code                     6 hrs 28 mins       █████████████████████████   100.00 % 
+Code                     3 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +82,7 @@ C++                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 06/04/2025 18:40:46 UTC
+ Last Updated on 07/04/2025 18:42:29 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
