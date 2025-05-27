@@ -23,8 +23,6 @@
 
 > 📦 77.4 kB Used in GitHub's Storage 
  > 
-> 🏆 11 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -58,18 +56,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   59 mins             █████████████████████████   99.78 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Code                     58 mins             █████████████████████████   99.03 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +81,7 @@ C++                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 26/05/2025 18:44:14 UTC
+ Last Updated on 27/05/2025 18:46:37 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
