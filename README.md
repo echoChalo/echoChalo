@@ -58,16 +58,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Project4                 8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +83,7 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 12/01/2026 18:53:23 UTC
+ Last Updated on 13/01/2026 18:52:08 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
