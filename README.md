@@ -15,7 +15,7 @@
 <img  width="800" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=echoChalo&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> 
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,19 +58,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 1 min        █████████████████████████   98.98 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Python                   12 hrs 29 mins      ████████████████████████░   97.94 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  12 hrs 44 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-work                     9 hrs 7 mins        ███████████████████░░░░░░   75.17 % 
-jiaoben                  3 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+work                     9 hrs 44 mins       ███████████████████░░░░░░   76.36 % 
+jiaoben                  3 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
 
 💻 Operating System: 
-Windows                  12 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -86,7 +86,7 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 07/02/2026 18:57:45 UTC
+ Last Updated on 08/02/2026 18:59:29 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
