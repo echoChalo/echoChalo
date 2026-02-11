@@ -15,7 +15,7 @@
 <img  width="800" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=echoChalo&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> 
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-319%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -31,47 +31,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-🌆 Daytime                105 commits         ████████░░░░░░░░░░░░░░░░░   32.61 % 
-🌃 Evening                187 commits         ███████████████░░░░░░░░░░   58.07 % 
-🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   58 commits          █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Tuesday                  90 commits          ███████░░░░░░░░░░░░░░░░░░   27.95 % 
-Wednesday                37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Thursday                 79 commits          ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-Friday                   51 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   19 hrs 34 mins      █████████████████████████   98.69 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-
-🔥 Editors: 
-VS Code                  19 hrs 50 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-work                     17 hrs 33 mins      ██████████████████████░░░   88.52 % 
-jiaoben                  2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-
-💻 Operating System: 
-Windows                  19 hrs 50 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -85,7 +44,7 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 10/02/2026 19:36:10 UTC
+ Last Updated on 11/02/2026 19:31:25 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
