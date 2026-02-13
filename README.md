@@ -91,7 +91,7 @@ JavaScript               1 repo              ████░░░░░░░�
 
 <p align="center">
 <br/>
-<img  width="800" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo" /> 
+![Lines of Code chart](https://raw.githubusercontent.com/echoChalo/echoChalo/main/assets/bar_graph.png)
 </p>
 
 <!--END_SECTION:waka-->
