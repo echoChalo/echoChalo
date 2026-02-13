@@ -89,9 +89,7 @@ JavaScript               1 repo              ████░░░░░░░�
 
  Last Updated on 12/02/2026 19:31:02 UTC
 
-<p align="center">
-<br/>
 ![Lines of Code chart](https://raw.githubusercontent.com/echoChalo/echoChalo/main/assets/bar_graph.png)
-</p>
+
 
 <!--END_SECTION:waka-->
