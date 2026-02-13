@@ -91,7 +91,7 @@ JavaScript               1 repo              ████░░░░░░░�
 
 <p align="center">
 <br/>
-<img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo&&theme=transparent&hide_border=true&layout=compact&langs_count=8" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <!--END_SECTION:waka-->
