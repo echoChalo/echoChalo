@@ -88,10 +88,10 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
  Last Updated on 12/02/2026 19:31:02 UTC
-<!--END_SECTION:waka-->
 
 <p align="center">
 <br/>
 <img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo&&theme=transparent&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
+<!--END_SECTION:waka-->
