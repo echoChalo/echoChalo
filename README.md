@@ -89,7 +89,7 @@ JavaScript               1 repo              ████░░░░░░░�
 
  Last Updated on 12/02/2026 19:31:02 UTC
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echoChalo&langs_count=20)
 
 
 <!--END_SECTION:waka-->
