@@ -15,8 +15,6 @@
 <img  width="800" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=echoChalo&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> 
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%2010%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -83,5 +81,5 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 21/05/2026 20:16:21 UTC
+ Last Updated on 22/05/2026 20:15:59 UTC
 <!--END_SECTION:waka-->
