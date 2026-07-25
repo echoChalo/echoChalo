@@ -15,6 +15,8 @@
 <img  width="800" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=echoChalo&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> 
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2014%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -29,6 +31,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+🌆 Daytime                105 commits         ████████░░░░░░░░░░░░░░░░░   31.82 % 
+🌃 Evening                187 commits         ██████████████░░░░░░░░░░░   56.67 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   58 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Tuesday                  90 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Wednesday                37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Thursday                 79 commits          ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Friday                   59 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -42,5 +83,5 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:52:11 UTC
+ Last Updated on 25/07/2026 19:39:35 UTC
 <!--END_SECTION:waka-->
