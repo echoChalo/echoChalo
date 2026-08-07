@@ -60,44 +60,26 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 1 min         ███████████████████░░░░░░   77.85 % 
-Markdown                 1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Python                   1 hr 45 mins        ████████████████████░░░░░   81.43 % 
+Git Config               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-consistency_system_v3    7 hrs 32 mins       ████████████████████████░   97.46 % 
-work                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+consistency_system_v3    1 hr 59 mins        ███████████████████████░░   91.47 % 
+work                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 
 💻 Operating System: 
-Windows                  7 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 33 mins (71.95%)
-
-✍️ 1,737 lines written by AI, 94 lines written by hand (94.87% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 14 AI Sessions, 22 AI Prompts
-
-Qoder                    1,757 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 94.87% of written lines came from AI
-📄 Detailed Prompter — average 734 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 9.48% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -113,5 +95,5 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:01:30 UTC
+ Last Updated on 07/08/2026 00:20:21 UTC
 <!--END_SECTION:waka-->
